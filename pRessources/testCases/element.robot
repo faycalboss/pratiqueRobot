@@ -47,3 +47,6 @@ TC_002
      Select From List By Label    id=multiselect1     Swift               
 
      Close Browser 
+
+TC_003
+    Log To Console    nouveau ajout    
